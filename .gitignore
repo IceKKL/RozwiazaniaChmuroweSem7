@@ -5,6 +5,7 @@
 
 # Secrets
 .secrets/
+sops.yaml
 
 # Output files
 output/
